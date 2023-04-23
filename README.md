@@ -4,9 +4,9 @@ Codificação em Javascript de um simples aplicativo em React Native que exibe u
 
 - Começando
 Para começar com o aplicativo, você pode clonar o repositório e instalar as dependências:
-git clone https://github.com/<username>/<repository-name>.git
-cd <repository-name>
-npm install
+- git clone https://github.com/username/repository-name.git
+- cd repository-name
+- npm install
 
 - Depois que as dependências são instaladas, você pode iniciar o aplicativo usando expo start.
 
