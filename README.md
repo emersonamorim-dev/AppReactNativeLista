@@ -10,15 +10,15 @@ Para começar com o aplicativo, você pode clonar o repositório e instalar as d
 
 - Depois que as dependências são instaladas, você pode iniciar o aplicativo usando expo start.
 
-## Recursos do Aplicativo
+### Recursos do Aplicativo
 - Exibe uma lista de produtos com seu nome e preço.
 - Implementa um botão "Comprar" que atualmente exibe uma mensagem de alerta quando pressionado.
 
-## Estrutura do Aplicativo
+### Estrutura do Aplicativo
 - App.js: O arquivo principal que renderiza os componentes do aplicativo.
 - styles.js: Os estilos para os componentes do aplicativo.
 
-## Dependências do Aplicativo
+### Dependências do Aplicativo
 O aplicativo usa as seguintes dependências:
 
 - react: A biblioteca principal para construir a interface do usuário.
